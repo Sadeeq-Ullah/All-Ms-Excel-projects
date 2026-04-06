@@ -45,3 +45,14 @@ Each project demonstrates a clear business use case: data cleaning, billing, ret
 ## ��� Notes
 - `Project Requirements.pdf` has been removed per workspace cleanup.
 - Supporting documentation and image previews remain available where relevant.
+
+## 📈 SEO & Portfolio Optimization
+This repository showcases Excel data analysis skills for a Technical Data Specialist. Optimized with keywords: Excel data cleaning, sales dashboard Excel, healthcare analytics, retail audit, invoice template.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-blue)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+## 🔗 Connect
+- [LinkedIn](https://linkedin.com/in/yourprofile) - Technical Data Specialist
+- [GitHub](https://github.com/yourusername)
+- Email: your.email@example.com
